@@ -1,7 +1,5 @@
 import json, os, pathlib, shutil
 from urllib.request import Request, urlopen, urlretrieve
-import tkinter as tk
-from tkinter import filedialog
 
 workingdir = os.path.dirname(os.path.realpath(__file__))
 print(workingdir)
