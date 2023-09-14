@@ -1,6 +1,10 @@
 # ModPack-Installer
 Allows for the installation of minecraft modpacks into the vanilla launcher
 
+WARNING: The API this program uses has been taken down
+this project will not work
+
+
 How To Use:
 Step One: Download your Modpack's latest zip file
 <br>
@@ -10,7 +14,5 @@ Step Three: Move the ModPack-Installer.exe into the extracted folder (Don't put 
 <br>
 Step Four: Launch the EXE and follow the instructions
 
-This program uses the TwitchApp API at https://twitchappapi.docs.apiary.io/
-I do not own this API nor do I own Any modpack install with this tool
-
-If any issues arise, Please notify me via the issues tab or via my reddit u/RhinoGaming1187
+This program uses the TwitchApp API at https://twitchappapi.docs.apiary.io
+This API does not seem to exist, this project will not work
